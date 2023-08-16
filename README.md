@@ -1,0 +1,1 @@
+Served as Teacher Assistant during the 2 month bootcamp of Cracking the coding interview conducted by Seed Programming and Diraction. Solved 200+ LeetCode problems. Helped student body to comeup wither a better solution. Leaving out some of the easy solutions out here.
